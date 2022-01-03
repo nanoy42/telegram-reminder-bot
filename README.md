@@ -4,6 +4,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.gnu.org/licenses/MIT)
 [![Code style black](https://img.shields.io/badge/code%20style-black-000000.svg)]("https://github.com/psf/black)
 [![GitHub release](https://img.shields.io/github/release/nanoy42/telegram-reminder-bot.svg)](https://github.com/nanoy42/telegram-reminder-bot/releases/)
+[![PyPI version](https://badge.fury.io/py/telegram-reminder-bot.svg)](https://badge.fury.io/py/telegram-reminder-bot)
 
 A small python bot to remind you of important tasks
 
