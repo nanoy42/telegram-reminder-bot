@@ -15,11 +15,11 @@ telegram-reminder-bot is a telegram bot that allows to register planned message 
 * either a message to be sent at the specific date;
 * or using a cron expression (to repeat the message).
 
-More on the possibilities of the bot here : https://telegram-reminder-bot.readthedocs.org/usage.html
+More on the possibilities of the bot here : https://telegram-reminder-bot.readthedocs.org/en/latest/usage.html
 
 ## Documentation
 
-The documentation on how to install and use the bot can be found here : https://telegram-reminder-bot.readthedocs.org/
+The documentation on how to install and use the bot can be found here : https://telegram-reminder-bot.readthedocs.org/en/latest
 
 ## License
 
